@@ -1,5 +1,4 @@
-[![C++17](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![Название](resurses/dropiAI.png)
 ![Название](resurses/mask_dropiAI.jpg)
 # dropiAI
